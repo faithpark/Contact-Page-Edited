@@ -70,7 +70,6 @@ html, body {
 }
 
 .center {
-	border-radius: 40px;
 	width: 50%;
 	min-width: 500px;
 	min-height: fit-content;
